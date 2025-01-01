@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thinhnguyenhuu50
+- 👋 Hi, I’m Thinh
 - 👀 I’m interested in Computer
 - 🌱 I’m currently learning Computer Engineering
 
